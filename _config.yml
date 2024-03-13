@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Me, Myself and I :)
-email: matpik99@gmail.com
+title: Il diavolo di Lundo
+email: lundodevil@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Riccio Nicotra a capo dei servizi segreti italiani perchè non è stato rimosso? mi piacebbe sapere se è vero che è stato rimosso e perchè
 baseurl: "" # the subpath of your site, e.g. /blog
